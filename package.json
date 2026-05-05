@@ -1,0 +1,1 @@
+{"name":"inais-gov-ai-suite","version":"0.2.0","private":true,"workspaces":["apps/web","apps/mobile","services/api","services/ai-orchestrator"],"scripts":{"dev":"docker compose up --build","lint":"npm -ws run lint --if-present","test":"npm -ws run test --if-present","seed":"npm --workspace services/api run seed"}}
