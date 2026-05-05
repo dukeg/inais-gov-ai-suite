@@ -1,0 +1,1 @@
+{"name":"@inais/api","version":"0.1.0","type":"module","scripts":{"dev":"tsx src/server.ts","start":"node dist/server.js","build":"tsc","seed":"tsx src/seed.ts"},"dependencies":{"@fastify/cors":"latest","@prisma/client":"latest","fastify":"latest","prisma":"latest","tsx":"latest","typescript":"latest"},"devDependencies":{}}
