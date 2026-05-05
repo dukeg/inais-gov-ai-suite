@@ -1,0 +1,1 @@
+{"name":"@inais/mobile","version":"0.1.0","scripts":{"start":"expo start","android":"expo start --android","ios":"expo start --ios"},"dependencies":{"@expo/metro-runtime":"latest","expo":"latest","react":"latest","react-native":"latest"},"devDependencies":{}}
